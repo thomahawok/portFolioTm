@@ -1,0 +1,103 @@
+.featuredWork{
+    & h4, p {
+        color: white !important; 
+    }
+   
+}
+
+.technos1:before {
+    content: "";
+    display: block;
+    background: url("../assets/technos/html5-brands.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.technos2:before {
+    content: "";
+    display: block;
+    background: url("../assets/technos/css3-brands.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.technos3:before {
+    content: "";
+    display: block;
+    background: url("../assets/technos/sass-brands.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.technos4:before {
+    content: "";
+    display: block;
+    background: url("../assets/technos/react-brands.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.technos5:before {
+    content: "";
+    display: block;
+    background: url("../assets/technos/redux.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.technos6:before {
+    content: "";
+    display: block;
+    background: url("../assets/technos/js-brands.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.technos7:before {
+    content: "";
+    display: block;
+    background: url("../assets/technos/bootstrap-brands.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.technos8:before {
+    content: "";
+    display: block;
+    background: url("../assets/technos/git-alt-brands.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+.technos9:before {
+    content: "";
+    display: block;
+    background: url("../assets/technos/github-brands.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+
+
+
+
+.featuredWork__item__title{
+    color: white !important;
+}
